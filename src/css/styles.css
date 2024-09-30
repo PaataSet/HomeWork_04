@@ -24,6 +24,8 @@ section {
 
 a > img {
 	width: 122px;
+	margin-top: 56px;
+	margin-bottom: 55px;
 }
 
 a{
@@ -96,4 +98,6 @@ footer li{
 
 .mini_logo{
 	width: 44px;
+	margin-top: 67px;
+	margin-bottom: 78px;
 }
