@@ -78,5 +78,22 @@ article > a{
 	font-size: 30px;
 	margin-top: 56px;
 	margin-bottom: 53px;
-	margin-left: 856px;
+}
+
+footer{
+	background-color: #2E2E2E;
+}
+
+h4{
+	font-size: 20px;
+	color: #F2F2F2;
+}
+
+footer li{
+	font-size: 13px;
+	color: #F2F2F2;
+}
+
+.mini_logo{
+	width: 44px;
 }
